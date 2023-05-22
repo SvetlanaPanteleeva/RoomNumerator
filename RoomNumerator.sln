@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomNumerator", "RoomNumerator\RoomNumerator.csproj", "{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryItog", "..\ClassLibraryItog\ClassLibraryItog\ClassLibraryItog.csproj", "{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Debug|x64.ActiveCfg = Debug|x64
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Debug|x64.Build.0 = Debug|x64
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Release|x64.ActiveCfg = Release|x64
+		{95E12D5D-0780-48E3-AF89-6CFE14D71F7B}.Release|x64.Build.0 = Release|x64
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Debug|x64.ActiveCfg = Debug|x64
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Debug|x64.Build.0 = Debug|x64
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Release|x64.ActiveCfg = Release|x64
+		{EB4F2A1A-DC57-46BB-A3EA-C9621BF8F30F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E347AB-9407-4CF6-ACF9-548EFA26C6A5}
+	EndGlobalSection
+EndGlobal
